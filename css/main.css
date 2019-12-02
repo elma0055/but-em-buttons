@@ -61,3 +61,23 @@ btn-ghost {
 .rocket:hover {
   -webkit-animation: bounce 2s linear infinite;
 }
+
+a:focus {
+  border-color: rgba(180, 255, 244, 0);
+}
+
+.btn-ghost:active {
+  top: -10px;
+}
+
+@-webkit-keyframes bounce {
+
+  from {
+    -webkit-transform: translateY(0);
+  }
+
+  to {
+  -webkit-transform: translate(-.4em);
+  }
+
+}
