@@ -18,3 +18,12 @@ section {
   left: 50%;
   transform: translateX(-50%);
 }
+
+.text-main {
+  text-shadow: 1px 1px 6px rgba(255, 255, 255, .7);
+}
+
+a {
+  color: #b4fff4;
+  text-decoration: none;
+}
