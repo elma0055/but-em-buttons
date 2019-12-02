@@ -1,3 +1,11 @@
 html {
   font-family: "Ubuntu Condensed", sans-serif;
 }
+
+section {
+  background-image: url("../images/starfield.png");
+}
+
+.img-star {
+  position: relative;
+}
