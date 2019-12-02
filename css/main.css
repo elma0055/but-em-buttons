@@ -37,7 +37,7 @@ a {
   border-color: #b4fff4;
 }
 
-btn-ghost {
+.btn-ghost {
   background-color: rgba(180, 255, 244, 0);
   border-width: 2px;
   border-style: solid;
