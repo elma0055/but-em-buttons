@@ -27,3 +27,12 @@ a {
   color: #b4fff4;
   text-decoration: none;
 }
+
+.btn-main {
+  border-width: 2px;
+  border-style: solid;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  border-color: #b4fff4;
+}
