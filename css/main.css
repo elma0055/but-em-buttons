@@ -9,3 +9,12 @@ section {
 .img-star {
   position: relative;
 }
+
+.text-box {
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+}
